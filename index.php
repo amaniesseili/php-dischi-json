@@ -32,7 +32,7 @@
     <div id="app" class="container">
         <h1>Le mie Opere</h1>
 
-        <!-- Div per visualizzare le opere -->
+        <!-- perche non posso visualizzare le opere ??? -->
         <div class="row">
           <div class="col-4" id="opere-container">
             
