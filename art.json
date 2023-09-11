@@ -1,0 +1,51 @@
+[
+  {
+      "titolo": "Afterglow",
+      "artista": "Amani Esseili",
+      "anno": "2020",
+      "opera": "img/afterglow.jpg"
+  },
+  {
+      "titolo": "beirut's Roar",
+      "artista": "Amani Esseili",
+      "anno": "2020",
+      "opera": "img/beirut's-roar.jpg"
+  },
+  {
+    "titolo": "Divine Love",
+    "artista": "Amani Esseili",
+    "anno": "2022",
+    "opera": "img/divine-love.jpg"
+},
+{
+    "titolo": "Eternal Love",
+    "artista": "Amani Esseili",
+    "anno": "2021",
+    "opera": "img/eternal-love.jpg"
+},
+{
+  "titolo": "Feedom",
+  "artista": "Amani Esseili",
+  "anno": "2018",
+  "opera": "img/freedom.jpg"
+},
+{
+  "titolo": "Motherhood",
+  "artista": "Amani Esseili",
+  "anno": "2021",
+  "copertina": "img/motherhood.jpg"
+},
+{
+"titolo": "Outside The Confort Zone",
+"artista": "Amani Esseili",
+"anno": "2021",
+"copertina": "img/outside-the-comfort-zone.jpg"
+},
+{
+"titolo": "Until We Meet Again",
+"artista": "Amani Esseili",
+"anno": "2021",
+"copertina": "img/until-we-meet-again.jpg"
+}
+
+]
