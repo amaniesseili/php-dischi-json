@@ -20,32 +20,36 @@
   <header>
 
     <nav class="navbar navbar-expand-lg navbar-light bg-light">
-        <a class="navbar-brand" href="#"><img src="img/logo.jpg" alt=""></a>
+        <a class="navbar-brand " href="#"><img src="img/logo.jpg" alt=""></a>
     </nav>
 
   </header>
 
   <main>
-    <!-- Contenuto principale -->
-    <div class="container">
-        <h1>le mie opere</h1>
 
-        <!-- per visualizzare le opere -->
+
+    <!-- Contenuto principale -->
+    <div id="app" class="container">
+        <h1>Le mie Opere</h1>
+
+        <!-- Div per visualizzare le opere -->
         <div class="row">
-            <div class="col-4" v-for="opera in opere">
-                <div class="card">
-                    <img :src="opera.opera" class="card-img-top" alt="Immagine dell'opera">
-                    <div class="card-body">
-                        <h5 class="card-title">{{ opera.titolo }}</h5>
-                        <p class="card-text">Artista: {{ opera.artista }}</p>
-                        <p class="card-text">Anno: {{ opera.anno }}</p>
-                    </div>
-                </div>
+          <div class="col-4" id="opere-container">
+            
+          <div class="card">
+            <img src="${opera.opera}" class="card-img-top" alt="Immagine dell'opera">
+            <div class="card-body">
+                <h5 class="card-title">${opera.titolo}</h5>
+                <p class="card-text">Artista: ${opera.artista}</p>
+                <p class="card-text">Anno: ${opera.anno}</p>
             </div>
+          </div>
+
+
+          </div>
+
         </div>
     </div>
-
-
 
 
   </main>
