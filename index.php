@@ -30,7 +30,7 @@
     <div class="container">
         <h1>le mie opere</h1>
 
-        <!-- Div per visualizzare le opere -->
+        <!-- per visualizzare le opere -->
         <div class="row">
             <div class="col-4" v-for="opera in opere">
                 <div class="card">
