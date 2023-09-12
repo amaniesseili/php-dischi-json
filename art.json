@@ -6,7 +6,7 @@
       "opera": "img/afterglow.jpg"
   },
   {
-      "titolo": "beirut's Roar",
+      "titolo": "Beirut's Roar",
       "artista": "Amani Esseili",
       "anno": "2020",
       "opera": "img/beirut's-roar.jpg"
@@ -33,19 +33,19 @@
   "titolo": "Motherhood",
   "artista": "Amani Esseili",
   "anno": "2021",
-  "copertina": "img/motherhood.jpg"
+  "opera": "img/motherhood.jpg"
 },
 {
 "titolo": "Outside The Confort Zone",
 "artista": "Amani Esseili",
 "anno": "2021",
-"copertina": "img/outside-the-comfort-zone.jpg"
+"opera": "img/outside-the-comfort-zone.jpg"
 },
 {
 "titolo": "Until We Meet Again",
 "artista": "Amani Esseili",
 "anno": "2021",
-"copertina": "img/until-we-meet-again.jpg"
+"opera": "img/until-we-meet-again.jpg"
 }
 
 ]
